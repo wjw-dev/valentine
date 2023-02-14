@@ -2,7 +2,7 @@
   "name": "valentines",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://wjw-dev.github.io/valentines",
+  "homepage": "https://wjw-dev.github.io/valentine",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
